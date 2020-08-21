@@ -5,6 +5,9 @@ This repo contains a Dog breed classifier algorithm using deep learning. The mai
 - If a dog is detected in the image, it will provide an estimate of the dog's breed. 
 - If a human is detected, it will provide an estimate of the dog breed that is most resembling.
 
+## Medium Post link
+[Dog Breed classifier using CNN](https://medium.com/@mrinalgupta1704/dog-breed-classifier-using-convolutional-neural-networks-6052edfab487?source=friends_link&sk=39520c87c22a581ee5d50306b43c667c)
+
 ## Motivation
 This project is one of the most popular deep learning projects from the Udacity's Data Science Nanodegree program. I decided to go with this project in order to expose myself to the world of Convolutional Neural Networks. It is the final project for my Nanodegree before it gets completed.
 
