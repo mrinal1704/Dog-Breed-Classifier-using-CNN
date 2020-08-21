@@ -16,6 +16,11 @@ This project is one of the most popular deep learning projects from the Udacity'
 - cv2
 - PIL
 
+## Instructions
+- Download the ![Dog Dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in the repo, at location path/to/dog-project/dogImages. The dogImages/ folder should contain 133 folders, each corresponding to a different dog breed.
+- Download the ![human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz). Unzip the folder and place it in the repo, at location path/to/dog-project/lfw. If you are using a Windows machine, you are encouraged to use 7zip to extract the folder.
+- Run the file called 'dog_app.ipynb'
+
 ## Steps Followed
 - Import the Dataset
 - Detect Humans using CV2
