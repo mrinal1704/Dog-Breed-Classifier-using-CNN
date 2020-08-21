@@ -35,4 +35,6 @@ This project is one of the most popular deep learning projects from the Udacity'
 6) Another dropout layer of 0.4 is added to speed up the process and prevent overfitting.
 7) Finally, we have the output layer with the number of nodes equal to the number of dog breeds that we have in the dataset with softmax activation function to predict the probababilities of the diffefrent breeds.
 
+![Model Architecture](https://github.com/mrinal1704/Dog-Breed-Classifier-using-CNN/edit/master/images/Architecture.PNG)
+
 # Results
