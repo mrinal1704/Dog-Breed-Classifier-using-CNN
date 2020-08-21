@@ -36,7 +36,23 @@ This project is one of the most popular deep learning projects from the Udacity'
 7) Finally, we have the output layer with the number of nodes equal to the number of dog breeds that we have in the dataset with softmax activation function to predict the probababilities of the diffefrent breeds.
 
 <p align="center">
-  <img src="./images/Architecture.PNG" alt="Web App" width="738">
+  <img src="./images/Architecture.PNG"  width="738">
 </p>
 
 # Results
+<p align="center">
+  <img src="./img/dog1.PNG" width="738">
+</p>
+
+<p align="center">
+  <img src="./img/human.PNG" width="738">
+</p>
+
+<p align="center">
+  <img src="./img/dog2.PNG"  width="738">
+</p>
+
+<p align="center">
+  <img src="./img/dog3.PNG"  width="738">
+</p>
+
