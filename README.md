@@ -46,18 +46,18 @@ This project is one of the most popular deep learning projects from the Udacity'
 
 # Results
 <p align="center">
-  <img src="./images/dog1.PNG" width="738">
+  <img src="./images/dog1.PNG" width="350">
 </p>
 
 <p align="center">
-  <img src="./images/human.PNG" width="738">
+  <img src="./images/human.PNG" width="350">
 </p>
 
 <p align="center">
-  <img src="./images/dog2.PNG"  width="738">
+  <img src="./images/dog2.PNG"  width="350">
 </p>
 
 <p align="center">
-  <img src="./images/dog3.PNG"  width="738">
+  <img src="./images/dog3.PNG"  width="350">
 </p>
 
